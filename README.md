@@ -15,12 +15,6 @@ A simple BMI Calculator built with **Python**.
 BMI = Weight / Height²
 ```
 
-## Run
-
-```bash
-python main.py
-```
-
 ## Example
 
 ```text
